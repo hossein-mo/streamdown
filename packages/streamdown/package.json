@@ -1,6 +1,6 @@
 {
-  "name": "streamdown",
-  "version": "1.4.0",
+  "name": "streamdown-rtl",
+  "version": "1.4.2",
   "type": "module",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
@@ -19,7 +19,7 @@
   "homepage": "https://streamdown.ai",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vercel/streamdown.git",
+    "url": "https://github.com/hossein-mo/streamdown",
     "directory": "packages/streamdown"
   },
   "scripts": {
