@@ -1,5 +1,11 @@
 # streamdown
 
+## 0.0.1
+
+### Patch Changes
+
+- fix: update dropdown alignment in TableDownloadDropdown component
+
 ## 1.4.3
 
 ### Patch Changes
