@@ -1,5 +1,11 @@
 # streamdown
 
+## 0.0.2
+
+### Patch Changes
+
+- switch the place of TableDownloadDropdown and TableCopyButton
+
 ## 0.0.1
 
 ### Patch Changes

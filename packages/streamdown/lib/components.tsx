@@ -281,8 +281,8 @@ const MemoTable = memo<TableProps>(
       >
         {showTableControls && (
           <div className="flex items-center justify-end gap-1">
-            <TableCopyButton />
             <TableDownloadDropdown />
+            <TableCopyButton />
           </div>
         )}
         <div className="overflow-x-auto">
